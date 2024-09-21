@@ -3,4 +3,4 @@ while IFS= read -r line; do
     dirname = "${line//\\/}"
     mkdir -p $line
     touch "$dirname/Solution.cpp"
-done < directories
+done < list
