@@ -14,5 +14,8 @@ A collection of solutions for the Grind 75 list.
 | Merge Two Sorted Lists    |        | [✓](21.%20Merge%20Two%20Sorted%20Lists/Solution.cpp)    |
 | Clone Graph               |        | [✓](133.%20Clone%20Graph/Solution.cpp)    |
 | Linked List Cycle         |        | [✓](141.%20Linked%20List%20Cycle/Solution.cpp)    |
+| First Bad Version         |        | [✓](278.%20First%20Bad%20Version/Solution.cpp)    |
 | Ransom Note               |        | [✓](383.%20Ransom%20Note/Solution.cpp)    |
+| Longest Palindrome               |        | [✓](409.%20Longest%20Palindrome/Solution.cpp)    |
+| Binary Search               |        | [✓](704.%20Binary%20Search/Solution.cpp)    |
 | Middle of the Linked List |        | [✓](876.%20Middle%20of%20the%20Linked%20List/Solution.cpp)    |
