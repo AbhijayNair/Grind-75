@@ -3,7 +3,8 @@ Grind 75
 
 A collection of solutions for the Grind 75 list.
 
-## Status
+Status
+------
 
 | Problem                   | Python | C++    |
 |---------------------------|--------|--------|
