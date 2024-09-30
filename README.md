@@ -14,9 +14,11 @@ A collection of solutions for the Grind 75 list.
 | Merge Two Sorted Lists    |        | [✓](21.%20Merge%20Two%20Sorted%20Lists/Solution.cpp)    |
 | Balanced Binary Tree   |        | [✓](110.%20Balanced%20Binary%20Tree/Solution.cpp)    |
 | Best Time to Buy and Sell Stock    |        | [✓](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.cpp)    |
+| Maximum Depth of a Binary Tree   |        | [✓](104.%20Maximum%20Depth%20of%20a%20Binary%20Tree/Solution.cpp)    |
 | Valid Palindrome   |        | [✓](125.%20Valid%20Palindrome/Solution.cpp)    |
 | Clone Graph               |        | [✓](133.%20Clone%20Graph/Solution.cpp)    |
 | Linked List Cycle         |        | [✓](141.%20Linked%20List%20Cycle/Solution.cpp)    |
+| Contains Duplicate        |        | [✓](217.%20Contains%20Duplicate/Solution.cpp)    |
 | First Bad Version         |        | [✓](278.%20First%20Bad%20Version/Solution.cpp)    |
 | Invert Binary Tree         |        | [✓](226.%20Invert%20Binary%20Tree/Solution.cpp)    |
 | Lowest Common Ancestor of a Binary Search Tree         |        | [✓](235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution.cpp)    |
